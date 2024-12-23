@@ -1,3 +1,4 @@
+![localhost_3002_(iPhone XR) (1)](https://github.com/user-attachments/assets/c1fb82aa-8567-44b4-8aa5-79f7a78ebd36)
 <<<<<<< HEAD
 # Netflix-GPT
 =======
