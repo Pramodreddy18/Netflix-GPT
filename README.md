@@ -1,4 +1,3 @@
-![localhost_3002_(iPhone XR) (1)](https://github.com/user-attachments/assets/c1fb82aa-8567-44b4-8aa5-79f7a78ebd36)
 <<<<<<< HEAD
 # Netflix-GPT
 =======
@@ -89,4 +88,8 @@ GPT suggestions
 responsive
 ![localhost_3002_browse(iPhone XR) (3)](https://github.com/user-attachments/assets/4691b9f8-3d09-42ee-8167-1ebb77352645)
 ![localhost_3002_(iPhone XR)](https://github.com/user-attachments/assets/99feb3e0-eeb7-4812-b352-ef18961d1611)
+![localhost_3002_(iPhone XR) (1)](https://github.com/user-attachments/assets/25d5c97b-c80a-44f7-be5d-eacab70f21cd)
+
+
+
 
