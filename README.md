@@ -74,6 +74,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 >>>>>>> d4a0009 (Initial commit)
 >>>>>>>
 #SCREENSHOTS
-sign-in and sign-up form
+sign-up and sign-in form
 ![Screenshot 2024-12-22 162029](https://github.com/user-attachments/assets/d6c76ae9-a5fc-434f-ae78-0333d0762c00)
 ![Screenshot 2024-12-22 161535](https://github.com/user-attachments/assets/1d69acea-4742-417e-bf2f-121b4b7cb9e2)
+
+ui
+![Screenshot 2024-12-22 161908](https://github.com/user-attachments/assets/a449e1c4-97c0-4f51-871d-e8be6e9f0e70)
+![Screenshot 2024-12-22 161855](https://github.com/user-attachments/assets/d7f53e03-827d-439f-a349-6fa29a545387)
+![Screenshot 2024-12-22 161827](https://github.com/user-attachments/assets/8877778c-e8fe-4c78-a6cd-e2f30bd37399)
+GPT suggestions
+![Screenshot 2024-12-22 161932](https://github.com/user-attachments/assets/a7a00642-df5d-4302-9045-320c5e9db1b8)
+
+responsive
+![localhost_3002_browse(iPhone XR) (3)](https://github.com/user-attachments/assets/4691b9f8-3d09-42ee-8167-1ebb77352645)
+![localhost_3002_(iPhone XR)](https://github.com/user-attachments/assets/99feb3e0-eeb7-4812-b352-ef18961d1611)
+
